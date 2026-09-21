@@ -3,6 +3,7 @@
 The support and privacy pages for Swedish Dice Hockey, the notepad hockey game of
 the eighties built as a real app for Mac, iPad and iPhone.
 
+* [App Store](https://apps.apple.com/app/id6806634069) — App Store-id 6806634069, same listing for iPhone, iPad and Mac
 * [Support](https://haj728.github.io/swedish-dice-hockey-site/support.html)
 * [Privacy Policy](https://haj728.github.io/swedish-dice-hockey-site/privacy.html)
 
